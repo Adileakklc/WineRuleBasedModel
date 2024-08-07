@@ -8,8 +8,6 @@ Bu proje, UCI Machine Learning Repository'den alınan Wine veri seti üzerinde k
 - [Modelin Eğitimi ve Değerlendirilmesi](#modelin-eğitimi-ve-değerlendirilmesi)
 - [Sonuçlar ve Karşılaştırma](#sonuçlar-ve-karşılaştırma)
 - [Sonuç ve Tartışma](#sonuç-ve-tartışma)
-- [Kullanım](#kullanım)
-- [Kaynaklar](#kaynaklar)
 
 ## Giriş
 Bu proje, BLM0463 Veri Madenciliğine Giriş dersi kapsamında gerçekleştirilmiştir. Amaç, Wine veri seti üzerinde kural tabanlı yöntemler kullanarak şarap türlerini sınıflandırmaktır.
